@@ -1,6 +1,6 @@
-# Health-chain-stellar
+# Medicare
 
-HealthDonor Protocol is an open-source platform built on Stellar Soroban smart contracts that enables transparent health donations, secure fund escrow, and immutable healthcare supply chain tracking.
+Medicare is an open-source platform built on Stellar Soroban smart contracts that enables transparent health donations, secure fund escrow, and immutable healthcare supply chain tracking.
 
 The protocol is designed for blood donations, medical supplies, vaccines, and healthcare funding, ensuring that every donation is:
 
